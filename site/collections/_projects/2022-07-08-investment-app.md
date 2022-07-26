@@ -1,6 +1,6 @@
 ---
 date: 2022-07-08 05:20:35 +0300
-title: Investment app
+title: Investment App
 subtitle: Finance
 image: '/images/projects/halo/halo.png'
 ---
