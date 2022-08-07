@@ -1,5 +1,5 @@
-<!-- ---
-date: 2022-07-08 05:20:35 +0300
+---
+date: 2022-07-26 05:20:35 +0300
 title: Electric Mobility App
 subtitle: Electromobility
 image: '/images/projects/ekz/ekz.png'
@@ -12,6 +12,6 @@ private charging stations, including details of all charging
 processes and offers a wide range of functions in the follwing areas: 
 public and private.
 
-## Search, Charge, and History
+## Search, Charge, and Charging History
 
-![Charging Screens](/images/projects/ekz/ekz-charging.png){: width="1200" height="900"} -->
+![Charging Screens](/images/projects/ekz/ekz-charging.png){: width="1200" height="900"}
