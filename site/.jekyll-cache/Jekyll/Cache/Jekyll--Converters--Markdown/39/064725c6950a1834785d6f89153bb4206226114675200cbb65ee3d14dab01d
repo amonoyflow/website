@@ -1,11 +1,17 @@
-I"Ä<h2 id="overview">Overview</h2>
+I"G<h2 id="overview">Overview</h2>
 
 <p>The Electric Mobility App gives you an overview of public and 
 private charging stations, including details of all charging 
 processes and offers a wide range of functions in the follwing areas: 
 public and private.</p>
 
-<h2 id="search-charge-and-charging-history">Search, Charge, and Charging History</h2>
+<h2 id="tools-and-platform">Tools and Platform</h2>
+
+<ul>
+  <li>Flutter, Dart, Android, iOS, Web, REST</li>
+</ul>
+
+<h2 id="search-charge-and-charging-history-screens">Search, Charge, and Charging History Screens</h2>
 
 <p><img src="/images/projects/ekz/ekz-charging.png" alt="Charging Screens" width="1200" height="900" /></p>
 :ET

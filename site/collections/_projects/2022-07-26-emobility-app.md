@@ -12,6 +12,10 @@ private charging stations, including details of all charging
 processes and offers a wide range of functions in the follwing areas: 
 public and private.
 
-## Search, Charge, and Charging History
+## Tools and Platform
+
+- Flutter, Dart, Android, iOS, Web, REST
+
+## Search, Charge, and Charging History Screens
 
 ![Charging Screens](/images/projects/ekz/ekz-charging.png){: width="1200" height="900"}
